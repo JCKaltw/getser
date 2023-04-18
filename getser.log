@@ -1,0 +1,33 @@
+Input file: snos-from-jerry.xlsx
+Script directory: /Users/chris/projects/purify/serial
+Data directory: /Users/chris/projects/purify/serial/data
+Processing worksheet: July 2020
+Created CSV file: /Users/chris/projects/purify/serial/data/July 2020.csv
+Processing worksheet: PO1022 - 5-13-2022 (#1)
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1022 - 5-13-2022 (#1).csv
+Processing worksheet: PO1022 - 6-6-2022 (#2)
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1022 - 6-6-2022 (#2).csv
+Processing worksheet: PO1022 - 8-29-2023 (#3)
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1022 - 8-29-2023 (#3).csv
+Processing worksheet: PO1022 - 2-6-2023 (#4)
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1022 - 2-6-2023 (#4).csv
+Processing worksheet: PO1022 - 4-24-23 (#5)
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1022 - 4-24-23 (#5).csv
+Processing worksheet: PO1023
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1023.csv
+Processing worksheet: PO1026
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1026.csv
+Processing worksheet: PO1032
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1032.csv
+Processing worksheet: PO1037
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1037.csv
+Processing worksheet: PO1043
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1043.csv
+Processing worksheet: PDS inventory pull
+Created CSV file: /Users/chris/projects/purify/serial/data/PDS inventory pull.csv
+Processing worksheet: AUS - Buzz Elec
+Created CSV file: /Users/chris/projects/purify/serial/data/AUS - Buzz Elec.csv
+Processing worksheet: PO1022 - FULL IRIS OHYAHMA SN
+Created CSV file: /Users/chris/projects/purify/serial/data/PO1022 - FULL IRIS OHYAHMA SN.csv
+Processing worksheet: Orders No Serial Yet
+Error: Worksheet Orders No Serial Yet - Could not locate 3 columns with hex data.
